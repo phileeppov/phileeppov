@@ -4,5 +4,6 @@ I design 0→1 products, the product and its identity together. Past work: a des
 
 So far here: fixes I've sent to tools I use.
 
+- [phileeppov.com/portfolio.pdf](https://phileeppov.com/portfolio.pdf)
 - [linkedin.com/in/phileeppov](https://www.linkedin.com/in/phileeppov)
 - phileeppov@gmail.com
